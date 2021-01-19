@@ -24,14 +24,4 @@ INSERT INTO manager (first_name, last_name)
 SELECT first_name,
     last_name
 FROM employee
-WHERE role_id = 1;
-INSERT INTO manager (first_name, last_name)
-SELECT first_name,
-    last_name
-FROM employee
-WHERE role_id = 3;
-INSERT INTO manager (first_name, last_name)
-SELECT first_name,
-    last_name
-FROM employee
-WHERE role_id = 5;
+WHERE manager_confirm = 1;
