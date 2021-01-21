@@ -1,7 +1,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ajcuddeback/Employee-tracker)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ajcuddeback/Employee-tracker)
 ![GitHub issues](https://img.shields.io/github/issues/ajcuddeback/Employee-tracker)
-![YouTube Video Views](https://img.shields.io/youtube/views/TaInk3BLWTI?label=YT%20Views&logo=youtube&logoColor=red&style=flat-square)
+![YouTube Video Views](https://img.shields.io/youtube/views/3KO_BLuK9AQ?label=YT%20Views&logo=youtube&logoColor=red&style=flat-square)
 
 # Employee-tracker
 
@@ -27,7 +27,7 @@ This project usage is for anyone that needs to organize their employees and depa
 
 ## Instructions
 
-- If you would like to view a video on how to install and use, go to my [Youtube Channel](https://www.youtube.com/watch?v=TaInk3BLWTI&feature=youtu.be)
+- If you would like to view a video on how to install and use, go to my [Youtube Channel](https://www.youtube.com/watch?v=3KO_BLuK9AQ)
 
 - Step 1: Clone this repository
 
