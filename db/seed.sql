@@ -9,11 +9,6 @@ VALUES ('Legal Team Lead', 250000, 1),
     ('Salesperson', 70000, 2),
     ('Lead Engineer', 150000, 3),
     ('Engineer', 120000, 3);
-INSERT INTO manager (first_name, last_name)
-SELECT first_name,
-    last_name
-FROM employee
-WHERE manager_confirm = 1;
 INSERT INTO employee (
         first_name,
         last_name,
@@ -31,3 +26,8 @@ VALUES ('Jerry', 'Underwood', 1, null, true),
     ('Pete', 'McFall', 5, null, true),
     ('Alexis', 'Caper', 6, 3, false),
     ('Mason', 'Jacobson', 6, 3, false);
+INSERT INTO manager (first_name, last_name)
+SELECT first_name,
+    last_name
+FROM employee
+WHERE manager_confirm = 1;
